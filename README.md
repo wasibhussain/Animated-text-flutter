@@ -14,3 +14,11 @@ A Flutter project that animates text by printing one character at a time, creati
    ```bash
    git clone https://github.com/your-username/animated-text.git
    cd animated-text
+
+2. Install dependencies:
+   ```bash
+   flutter pub get
+
+3. Run the App:
+   ```bash
+   flutter run

@@ -1,3 +1,5 @@
+![Behance Cover Image1](https://github.com/user-attachments/assets/45728a7b-f29a-42f4-8da5-8ff37750537d)
+
 # Animated Text in Flutter
 
 A Flutter project that animates text by printing one character at a time, creating a typing effect.
